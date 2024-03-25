@@ -28,7 +28,14 @@
             "calories": 9192,
             "type": "ice-cream",
             "ingredients": ["Underberry", "Chocolate Ganash", "People"],
-            "image": "https://gpzetic.github.io/js-lab4/images/underberry.svg"
+            "image": "https://gpzetic.github.io/js-lab4/images/underberry.png"
+        },
+        {
+            "name": "Goofy Goober Sundae",
+            "calories": 999999999,
+            "type": "ice-cream",
+            "ingredients": ["Sugar", "Skittles", "Banana", "Chocolate"],
+            "image": "https://gpzetic.github.io/js-lab4/images/goofy.jpg"
         }
     ]
 }
